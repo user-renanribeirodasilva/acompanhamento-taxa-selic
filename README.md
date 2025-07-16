@@ -11,7 +11,7 @@ Adicionei um filtro ao lado esquerdo do dash, que permite filtrar as informaçõ
 
 ## Informações adicionadas nas planilhas Excel:
 
-![Excel 1](imagens/PlanilhaExcel1.png)![Excel 2](imagens/PlanilhaExcel2.png)
+![Excel 1](imagens/PlanilhaExcel1.png) ![Excel 2](imagens/PlanilhaExcel2.png)
 
 
 ## Modelagem:
